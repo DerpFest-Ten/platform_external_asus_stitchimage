@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Սքրինշոթ</string>
+    <string name="circle_btn_done">Պատրաստ է</string>
+    <string name="circle_btn_edit">Խմբագրել</string>
+    <string name="circle_btn_extend">Մեծացնել</string>
+    <string name="circle_btn_long_screenshot">Երկար սքրինշոթ</string>
+    <string name="circle_btn_share">Տարածել</string>
+    <string name="editor_left_dialog_message">Պահպանել փոփոխությունները</string>
+    <string name="editor_left_dialog_negative_btn">Ոչ</string>
+    <string name="editor_left_dialog_positive_btn">Այո</string>
+    <string name="editor_left_dialog_title">Պահել և դուրս գալ</string>
+    <string name="editor_text_text">Տեքստ</string>
+    <string name="editor_toast_file_not_found">Ֆայլը գոյություն չունի</string>
+    <string name="editor_toast_processing">Պահպանում․․․</string>
+    <string name="editor_toast_save_failed">Պահպանել չհաջողվեց</string>
+    <string name="notification_delete">Ջնջել</string>
+    <string name="notification_share">Տարածել</string>
+</resources>
